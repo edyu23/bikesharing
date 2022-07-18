@@ -47,4 +47,5 @@ The purpose of this project is to look into whether a bikesharing venture is via
   
 ## ** Summary**
   We gathered quite an extensive amount of data for this project that can play into our decision if bikesharing would be viable in Des Moines. I can't help but think with the information we have that we probably need more information to make a sound decision on whether the Des Moines venture is viable since there are many other factors in play that we have not considered such as population and tourism levels to even the bikeability of Des Moines.
+  
   For the information that we have been given, we can look into other months to see if that plays into the amount of rides. We can also look at which stations have the most rides that start or end at such station to ensure that demand is being met in terms of accessibility.
